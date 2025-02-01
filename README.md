@@ -1,16 +1,16 @@
 # Project-Polybar
-## 🚀 Project Polybar – BSPWM Setup for Arch Linux
+## 🚀 Polybar – BSPWM Setup for Arch Linux
 A minimal, elegant, and functional Polybar setup designed for BSPWM on Arch Linux. This configuration enhances productivity with dynamic workspace management, system monitoring, and seamless integrations.
 
 ## 🎯 Features
-Multi-Monitor Support – Auto-adjusts to multiple displays.  
-Live System Stats – CPU, RAM, disk, network, and battery indicators.  
-Workspace Indicators – Visual feedback for active workspaces.  
-Media & Volume Controls – Play, pause, and adjust volume on the fly.  
-Date & Time Module – Displays real-time date and time.  
-App Launcher Integration – Works with Rofi for quick access.  
-Notification Support – Fully compatible with Dunst.  
-Theming & Customization – Easily tweak fonts, colors, and modules.  
+- **Multi-Monitor Support** – Auto-adjusts to multiple displays.  
+- **Live System Stats** – CPU, RAM, disk, network, and battery indicators.  
+- **Workspace Indicators** – Visual feedback for active workspaces.  
+- **Media & Volume Controls** – Play, pause, and adjust volume on the fly.    
+- **Date & Time Module** – Displays real-time date and time.  
+- **App Launcher Integration** – Works with **Rofi** for quick access.  
+- **Notification Support** – Fully compatible with **Dunst**.  
+- **Theming & Customization** – Easily tweak fonts, colors, and modules.   
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 git clone https://github.com/AjayVasan/Project-Polybar.git  
