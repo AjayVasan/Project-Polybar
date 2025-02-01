@@ -13,7 +13,7 @@ A minimal, elegant, and functional Polybar setup designed for BSPWM on Arch Linu
 - **Theming & Customization** – Easily tweak fonts, colors, and modules.   
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
-git clone https://github.com/AjayVasan/Project-Polybar.git  
+`git clone https://github.com/AjayVasan/Project-Polybar.git`  
 `cd Project-Polybar`  
 
 ### 2️⃣ Install Dependencies
